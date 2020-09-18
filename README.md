@@ -43,13 +43,13 @@ $ git clone https://github.com/MrReX8X/pass-maker
 $ ls
 ```
 ```
-$ cd p-gen
+$ cd pass-maker
 ```
 ```
 $ ls
 ```
 ```
-$ python p-gen.py
+$ python pass-maker.py
 ```
 ex:- Enter The Length Of The Password: 8
 
@@ -57,6 +57,8 @@ WOW... you just created a strong password.
 
 
 ### Chekout our webite 
+https://ibb.co/r4zjH7t
+
 https://www.facebook.com/MrReX.onion
 ### Warning
 
